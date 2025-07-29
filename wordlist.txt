@@ -1,0 +1,7 @@
+password
+123456
+letmein
+secret
+admin
+root
+anonymous
